@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
+<id>http://jameslow.com/work/zest/</id>
+<title>Zest AutoUpdate</title>
+<link href="http://jameslow.com/content/software/zest/Zest.xml" rel="self"/>
+<link href="http://jameslow.com/work/zest/"/>
+<author>
+<name>Limegreen AutoUpdate Generator</name>
+</author>
+<updated>2012-09-06T20:16:46+08:00</updated>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=507</id>
+<title>Zest 0.1 (build 507)</title>
+<limegreen:build>507</limegreen:build>
+<limegreen:version>0.1</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-12T01:6:32+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=507"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.1.zip" length="1105438" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.1.zip" length="842849" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.1.zip" length="832882" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.1.zip" length="8195828" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.1.dmg" length="859478" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Initial Version</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=508</id>
+<title>Zest 0.2 (build 508)</title>
+<limegreen:build>508</limegreen:build>
+<limegreen:version>0.2</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-12T01:9:15+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=508"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.2.zip" length="1105436" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.2.zip" length="842850" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.2.zip" length="832883" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.2.zip" length="8196442" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.2.dmg" length="859556" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Testing auto update</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=520</id>
+<title>Zest 0.21 (build 520)</title>
+<limegreen:build>520</limegreen:build>
+<limegreen:version>0.21</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-12T01:45:16+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=520"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.21.zip" length="1105905" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.21.zip" length="843367" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.21.zip" length="833400" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.21.zip" length="8196745" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.21.dmg" length="860063" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Added open youtube link</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=545</id>
+<title>Zest 0.22 (build 545)</title>
+<limegreen:build>545</limegreen:build>
+<limegreen:version>0.22</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-12T22:49:05+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=545"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.22.zip" length="1107937" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.22.zip" length="845543" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.22.zip" length="835574" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.22.zip" length="8197389" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.22.dmg" length="862206" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>No longer prints youtube link in RTF
+Option to reset style to default
+Option to refresh folder</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=568</id>
+<title>Zest 0.23 (build 568)</title>
+<limegreen:build>568</limegreen:build>
+<limegreen:version>0.23</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T09:12:13+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=568"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.23.zip" length="1109845" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.23.zip" length="847509" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.23.zip" length="837541" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.23.zip" length="8198274" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.23.dmg" length="864016" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Allows you to change the key before export
+Shows the highest note if specified in file</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=579</id>
+<title>Zest 0.24 (build 579)</title>
+<limegreen:build>579</limegreen:build>
+<limegreen:version>0.24</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T09:45:27+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=579"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.24.zip" length="1109827" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.24.zip" length="847485" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.24.zip" length="837515" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.24.zip" length="8198377" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.24.dmg" length="863951" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fixed indenting chorus</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=586</id>
+<title>Zest 0.25 (build 586)</title>
+<limegreen:build>586</limegreen:build>
+<limegreen:version>0.25</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T10:4:40+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=586"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.25.zip" length="1109898" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.25.zip" length="847573" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.25.zip" length="837604" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.25.zip" length="8197877" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.25.dmg" length="864048" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Includes a proper example file
+Better handling of incorrectly formatted files</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=595</id>
+<title>Zest 0.26 (build 595)</title>
+<limegreen:build>595</limegreen:build>
+<limegreen:version>0.26</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T10:35:18+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=595"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.26.zip" length="1110641" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.26.zip" length="848315" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.26.zip" length="838346" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.26.zip" length="8198285" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.26.dmg" length="864792" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Better column sizes</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=597</id>
+<title>Zest 0.27 (build 597)</title>
+<limegreen:build>597</limegreen:build>
+<limegreen:version>0.27</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T10:48:28+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=597"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.27.zip" length="1110733" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.27.zip" length="848402" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.27.zip" length="838433" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.27.zip" length="8198428" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.27.dmg" length="864872" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Increased size of initial window</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=606</id>
+<title>Zest 0.28 (build 606)</title>
+<limegreen:build>606</limegreen:build>
+<limegreen:version>0.28</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-13T16:45:32+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=606"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.28.zip" length="1110743" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.28.zip" length="848411" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.28.zip" length="838444" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.28.zip" length="8198525" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.28.dmg" length="864876" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix transposing of high note for My Key</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=618</id>
+<title>Zest 0.29 (build 618)</title>
+<limegreen:build>618</limegreen:build>
+<limegreen:version>0.29</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-14T09:49:19+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=618"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.29.zip" length="1111349" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.29.zip" length="848995" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.29.zip" length="839028" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.29.zip" length="8199175" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.29.dmg" length="865532" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Improvements to chord line detection
+Bug fix for transposing
+Bug fix for double right click</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=624</id>
+<title>Zest 0.30 (build 624)</title>
+<limegreen:build>624</limegreen:build>
+<limegreen:version>0.30</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-14T10:4:38+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=624"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.30.zip" length="1111392" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.30.zip" length="849038" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.30.zip" length="839070" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.30.zip" length="8199336" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.30.dmg" length="865577" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix to show correct #/b when transposing</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=625</id>
+<title>Zest 0.31 (build 625)</title>
+<limegreen:build>625</limegreen:build>
+<limegreen:version>0.31</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-14T17:11:32+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=625"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.31.zip" length="1137303" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.31.zip" length="874809" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.31.zip" length="852082" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.31.zip" length="8237625" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.31.dmg" length="893714" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>New Icon, thanks Anna!</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=639</id>
+<title>Zest 0.32 (build 639)</title>
+<limegreen:build>639</limegreen:build>
+<limegreen:version>0.32</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-15T15:56:05+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=639"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.32.zip" length="1137143" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.32.zip" length="874643" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.32.zip" length="851915" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.32.zip" length="8237500" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.32.dmg" length="893577" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for reading chords correctly
+Wesley was here :-)</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=649</id>
+<title>Zest 0.33 (build 649)</title>
+<limegreen:build>649</limegreen:build>
+<limegreen:version>0.33</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-17T13:32:08+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=649"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.33.zip" length="1137425" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.33.zip" length="874937" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.33.zip" length="852209" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.33.zip" length="8237869" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.33.dmg" length="893843" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix crash for certain file formats</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=684</id>
+<title>Zest 0.34 (build 684)</title>
+<limegreen:build>684</limegreen:build>
+<limegreen:version>0.34</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-22T15:49:56+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=684"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.34.zip" length="4196950" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.34.zip" length="3934827" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.34.zip" length="3912099" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.34.zip" length="9978795" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.34.dmg" length="3953255" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Can now download files from a remote SVN source</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=689</id>
+<title>Zest 0.35 (build 689)</title>
+<limegreen:build>689</limegreen:build>
+<limegreen:version>0.35</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-22T16:5:40+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=689"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.35.zip" length="4197003" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.35.zip" length="3934866" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.35.zip" length="3912138" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.35.zip" length="9978953" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.35.dmg" length="3953372" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>More graceful failing if initial folder doesn't exist</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=698</id>
+<title>Zest 0.36 (build 698)</title>
+<limegreen:build>698</limegreen:build>
+<limegreen:version>0.36</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-23T15:23:04+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=698"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.36.zip" length="4196018" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.36.zip" length="3933880" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.36.zip" length="3911152" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.36.zip" length="9979033" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.36.dmg" length="3952265" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>No longer shows a double line space at the end of songs.</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=704</id>
+<title>Zest 0.37 (build 704)</title>
+<limegreen:build>704</limegreen:build>
+<limegreen:version>0.37</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-04-23T22:50:11+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=704"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.37.zip" length="4197552" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.37.zip" length="3935433" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.37.zip" length="3912704" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.37.zip" length="9979340" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.37.dmg" length="3954005" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Option to use alternate key by default</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=742</id>
+<title>Zest 0.38 (build 742)</title>
+<limegreen:build>742</limegreen:build>
+<limegreen:version>0.38</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-05-04T16:44:01+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=742"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.38.zip" length="4199311" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.38.zip" length="3937168" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.38.zip" length="3914439" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.38.zip" length="9979966" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.38.dmg" length="3955704" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Preview song through right click
+Show high note in folder list
+Preview song properties by mouse over
+Supports description property in files
+Bug fix when changing key of multiple files</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=769</id>
+<title>Zest 0.39 (build 769)</title>
+<limegreen:build>769</limegreen:build>
+<limegreen:version>0.39</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-07-27T23:39:34+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=769"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.39.zip" length="4199694" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.39.zip" length="3938055" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.39.zip" length="3914759" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.39.zip" length="9981047" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.39.dmg" length="3954880" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Many updates</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=800</id>
+<title>Zest 0.40 (build 800)</title>
+<limegreen:build>800</limegreen:build>
+<limegreen:version>0.40</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-07-28T08:58:19+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=800"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.40.zip" length="4200975" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.40.zip" length="3939088" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.40.zip" length="3915792" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.40.zip" length="9981769" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.40.dmg" length="3955683" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Now shows firstline of song
+Has an option not to use my key data</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=846</id>
+<title>Zest 0.41 (build 846)</title>
+<limegreen:build>846</limegreen:build>
+<limegreen:version>0.41</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-07-29T21:25:16+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=846"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.41.zip" length="4203426" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.41.zip" length="3941367" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.41.zip" length="3918073" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.41.zip" length="9984251" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.41.dmg" length="3957630" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>New UI changes</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=877</id>
+<title>Zest 0.42 (build 877)</title>
+<limegreen:build>877</limegreen:build>
+<limegreen:version>0.42</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-07-31T22:58:31+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=877"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.42.zip" length="4203455" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.42.zip" length="3941410" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.42.zip" length="3918115" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.42.zip" length="9984409" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.42.dmg" length="3957644" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix bug where exporting only exported odd rows</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=990</id>
+<title>Zest 0.43 (build 990)</title>
+<limegreen:build>990</limegreen:build>
+<limegreen:version>0.43</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-10T23:7:40+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=990"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.43.zip" length="4635607" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.43.zip" length="4373943" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.43.zip" length="4350647" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.43.zip" length="11666802" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.43.dmg" length="4398099" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Can upload to a google spread sheet
+MAGIC :-)</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=991</id>
+<title>Zest 0.44 (build 991)</title>
+<limegreen:build>991</limegreen:build>
+<limegreen:version>0.44</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-14T23:1:57+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=991"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.44.zip" length="4635604" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.44.zip" length="4373945" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.44.zip" length="4350649" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.44.zip" length="11666909" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.44.dmg" length="4398113" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix errors when getting song history data on startup</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=993</id>
+<title>Zest 0.45 (build 993)</title>
+<limegreen:build>993</limegreen:build>
+<limegreen:version>0.45</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-08-15T22:36:05+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=993"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.45.zip" length="4612515" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.45.zip" length="4350859" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.45.zip" length="4327563" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.45.zip" length="11667010" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.45.dmg" length="4375521" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Minor fix to autoupdate
+Shows correct version in application</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=996</id>
+<title>Zest 0.46 (build 996)</title>
+<limegreen:build>996</limegreen:build>
+<limegreen:version>0.46</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-01T11:31:01+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=996"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.46.zip" length="5507733" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.46.zip" length="5246303" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.46.zip" length="5223007" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.46.zip" length="12771698" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.46.dmg" length="5268933" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Doing a clean build that should fix problems on Leopard</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1003</id>
+<title>Zest 0.47 (build 1003)</title>
+<limegreen:build>1003</limegreen:build>
+<limegreen:version>0.47</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-02T09:48:25+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1003"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.47.zip" length="5507791" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.47.zip" length="5246370" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.47.zip" length="5223075" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.47.zip" length="11667448" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.47.dmg" length="5268988" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Fix for open/save dialog</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1023</id>
+<title>Zest 0.48 (build 1023)</title>
+<limegreen:build>1023</limegreen:build>
+<limegreen:version>0.48</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-03T22:25:21+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1023"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.48.zip" length="5522558" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.48.zip" length="5261156" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.48.zip" length="5237861" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.48.zip" length="11669434" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.48.dmg" length="5283217" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Left hand table sorts
+Searches all lines in song
+Reminder to upload songs on export</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1030</id>
+<title>Zest 0.49 (build 1030)</title>
+<limegreen:build>1030</limegreen:build>
+<limegreen:version>0.49</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-07T21:42:36+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1030"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.49.zip" length="5523737" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.49.zip" length="5262323" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.49.zip" length="5239027" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.49.zip" length="11670499" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.49.dmg" length="5284222" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Can now copy to clipboard
+Fix so that upload window can be cancelled</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1034</id>
+<title>Zest 0.50 (build 1034)</title>
+<limegreen:build>1034</limegreen:build>
+<limegreen:version>0.50</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-07T21:58:44+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1034"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.50.zip" length="5552346" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.50.zip" length="5290769" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.50.zip" length="5267474" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.50.zip" length="11670795" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.50.dmg" length="5312604" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Expands table height if supported. Otherwise you still have to double click to add.</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1039</id>
+<title>Zest 0.51 (build 1039)</title>
+<limegreen:build>1039</limegreen:build>
+<limegreen:version>0.51</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-10-09T01:27:21+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1039"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.51.zip" length="4585946" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.51.zip" length="4324256" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.51.zip" length="4300960" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.51.zip" length="11670936" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.51.dmg" length="4341220" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Bug fix from previous version on mac</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1046</id>
+<title>Zest 0.52 (build 1046)</title>
+<limegreen:build>1046</limegreen:build>
+<limegreen:version>0.52</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2010-12-09T15:29:32+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1046"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.52.zip" length="4587294" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.52.zip" length="4325676" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.52.zip" length="4302384" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.52.zip" length="11672419" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.52.dmg" length="4342659" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Searches file name correctly</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1056</id>
+<title>Zest 0.53 (build 1056)</title>
+<limegreen:build>1056</limegreen:build>
+<limegreen:version>0.53</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2011-10-27T19:43:47+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1056"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.53.zip" length="4587648" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.53.zip" length="4330035" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.53.zip" length="4302758" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.53.zip" length="12462880" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.53.dmg" length="4347160" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>1) Always add to end of song list
+2) Double click on the right to preview song
+3) Delete songs from songlist using the delete key</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1058</id>
+<title>Zest 0.54 (build 1058)</title>
+<limegreen:build>1058</limegreen:build>
+<limegreen:version>0.54</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2012-09-06T20:16:46+08:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1058"/>
+<link href="http://jameslow.com/content/software/zest/Zest-win-0.54.zip" length="4587605" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-mac-0.54.zip" length="4325593" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-other-0.54.zip" length="4302719" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-source-0.54.zip" length="12462958" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
+<link href="http://jameslow.com/content/software/zest/Zest-0.54.dmg" length="4354313" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>Double clicking to preview now accounts for key</content>
+</entry>
+</feed>

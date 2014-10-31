@@ -1,0 +1,2 @@
+#!/bin/sh
+grep -e ".*\:$" * | grep -v -i 'Chorus' | grep -v -i 'Verse' | grep -v -i 'Intro' | grep -v -i 'Bridge' | grep -v -i 'Instrumental' | grep -v -i 'Riff' | grep -v -i 'Other'  | grep -v -i 'End'
