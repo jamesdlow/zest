@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:limegreen="http://code.google.com/p/limegreen">
 <id>http://jameslow.com/work/zest/</id>
 <title>Zest AutoUpdate</title>
-<link href="http://jameslow.com/content/software/zest/Zest.xml" rel="self"/>
+<link href="https://raw.githubusercontent.com/jamesdlow/zest/master//Zest.xml" rel="self"/>
 <link href="http://jameslow.com/work/zest/"/>
 <author>
 <name>Limegreen AutoUpdate Generator</name>
 </author>
-<updated>2012-09-06T20:16:46+08:00</updated>
+<updated>2014-10-31T11:9:49+00:00</updated>
 <entry>
 <id>http://jameslow.com/work/zest/?limegreenbuild=507</id>
 <title>Zest 0.1 (build 507)</title>
@@ -566,5 +566,19 @@ Fix so that upload window can be cancelled</content>
 <link href="http://jameslow.com/content/software/zest/Zest-source-0.54.zip" length="12462958" rel="enclosure" title="Zest Source Zip" type="application/zip"/>
 <link href="http://jameslow.com/content/software/zest/Zest-0.54.dmg" length="4354313" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
 <content>Double clicking to preview now accounts for key</content>
+</entry>
+<entry>
+<id>http://jameslow.com/work/zest/?limegreenbuild=1076</id>
+<title>Zest 1.0.0 (build 1076)</title>
+<limegreen:build>1076</limegreen:build>
+<limegreen:version>1.0.0</limegreen:version>
+<limegreen:experimental>false</limegreen:experimental>
+<updated>2014-10-31T11:9:49+00:00</updated>
+<link href="http://jameslow.com/work/zest/?limegreenbuild=1076"/>
+<link href="https://github.com/jamesdlow/zest/releases/download/1.0.0//Zest-win-1.0.0.zip" length="4564673" rel="enclosure" title="Zest Win Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/zest/releases/download/1.0.0//Zest-mac-1.0.0.zip" length="4302351" rel="enclosure" title="Zest Mac Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/zest/releases/download/1.0.0//Zest-other-1.0.0.zip" length="4279413" rel="enclosure" title="Zest Other Zip" type="application/zip"/>
+<link href="https://github.com/jamesdlow/zest/releases/download/1.0.0//Zest-1.0.0.dmg" length="4344617" rel="enclosure" title="Zest Mac Disk Image" type="application/octet-stream"/>
+<content>New version hosted on GitHub</content>
 </entry>
 </feed>
