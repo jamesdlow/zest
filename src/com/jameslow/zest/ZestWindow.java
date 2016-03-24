@@ -131,7 +131,7 @@ public class ZestWindow extends MainWindow {
 			} catch (IOException e) {
 				Main.Logger().warning("Could not export file"+e.getMessage());
 			}
-			if (!MiscUtils.isblank(settings.googlekey) && !MiscUtils.isblank(settings.googlesheet) && !MiscUtils.isblank(settings.googleusername) && !MiscUtils.isblank(settings.googlepassword)) {
+			if (!MiscUtils.blank(settings.googlekey) && !MiscUtils.blank(settings.googlesheet) && !MiscUtils.blank(settings.googleusername) && !MiscUtils.blank(settings.googlepassword)) {
 				int n = JOptionPane.showConfirmDialog(this,"Would you like to upload the songlist now?","Upload Songs?",JOptionPane.YES_NO_OPTION);
 				if (n == JOptionPane.YES_OPTION) {
 					uploadSongs();
@@ -181,7 +181,7 @@ public class ZestWindow extends MainWindow {
 	}
 	public void uploadSongs() {
 		final ZestWindow win = this;
-		if (!MiscUtils.isblank(settings.googlekey) && !MiscUtils.isblank(settings.googlesheet) && !MiscUtils.isblank(settings.googleusername) && !MiscUtils.isblank(settings.googlepassword)) {
+		if (!MiscUtils.blank(settings.googlekey) && !MiscUtils.blank(settings.googlesheet) && !MiscUtils.blank(settings.googleusername) && !MiscUtils.blank(settings.googlepassword)) {
 			UploadWindow window = new UploadWindow(this);
 		} else {
 			Main.showLogError("Please enter Google settings.","Upload Error",null,win);
@@ -189,7 +189,7 @@ public class ZestWindow extends MainWindow {
 	}
 	public void getSongs(final boolean showerror) {
 		final ZestWindow win = this;
-		if (!MiscUtils.isblank(settings.googlekey) && !MiscUtils.isblank(settings.googlesheet) && !MiscUtils.isblank(settings.googleusername) && !MiscUtils.isblank(settings.googlepassword)) {
+		if (!MiscUtils.blank(settings.googlekey) && !MiscUtils.blank(settings.googlesheet) && !MiscUtils.blank(settings.googleusername) && !MiscUtils.blank(settings.googlepassword)) {
 			Thread thread = new Thread(new Runnable() {
 				public void run() {
 					try {

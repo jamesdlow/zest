@@ -93,7 +93,7 @@ public class DragableTable extends Droppable implements ActionListener {
 								tip = tip + "<br>First Line: " + words;
 							}
 							String filter = hacktable.getFilter();
-							if (!MiscUtils.isblank(filter)) {
+							if (!MiscUtils.blank(filter)) {
 								String[] needles = MiscUtils.searchSplit(filter);
 								boolean found = false;
 								boolean firsttime = true;
@@ -148,13 +148,13 @@ public class DragableTable extends Droppable implements ActionListener {
 		return "";
 	}
 	public static String makenotecell(String key, String highnote) {
-		return key + (MiscUtils.isblank(highnote) ? "" : " (" + highnote + ")");
+		return key + (MiscUtils.blank(highnote) ? "" : " (" + highnote + ")");
 	}
 	public static String makenotecell(String key, String highnote, String newkey) {
-		if (MiscUtils.isblank(newkey)) {
+		if (MiscUtils.blank(newkey)) {
 			return makenotecell(key,highnote);
 		} else {
-			if (MiscUtils.isblank(highnote)) {
+			if (MiscUtils.blank(highnote)) {
 				return makenotecell(newkey,null);
 			} else {
 				try {
@@ -236,7 +236,7 @@ public class DragableTable extends Droppable implements ActionListener {
 			Song song = Song.parse(filepath);
 			if (transpose) {
 				String key = song.getPropertyValue(SectionType.KEY);
-				if (MiscUtils.isblank(key)) {
+				if (MiscUtils.blank(key)) {
 					return song;
 				} else {
 					return song.transpose(key,getKey(index),true);

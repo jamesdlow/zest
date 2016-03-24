@@ -10,7 +10,7 @@ public class MiscUtils {
 			t1 = System.currentTimeMillis();
 		} while (t1 - t0 < n);
 	}
-	public static boolean isblank(String s) {
+	public static boolean blank(String s) {
 		return (s == null || "".compareTo(s) == 0);
 	}
 	public static String[] searchSplit(String needle) {

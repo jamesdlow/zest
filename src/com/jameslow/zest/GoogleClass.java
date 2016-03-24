@@ -62,7 +62,7 @@ public class GoogleClass {
 			newEntry.getCustomElements().setValueLocal("title", song);
 			newEntry.getCustomElements().setValueLocal("date", exceldate);
 			newEntry.getCustomElements().setValueLocal("user", username);
-			if (!MiscUtils.isblank(other)) {
+			if (!MiscUtils.blank(other)) {
 				newEntry.getCustomElements().setValueLocal("other", other);
 			}
 			service.insert(listFeedUrl, newEntry);
